@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1574815368 source:d:\2º período\lógica de programação ii\prova\projeto_imc\imc\imcc.c
+
+1574815783 source:d:\2º período\lógica de programação ii\prova\projeto_imc\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574815512 d:\2º período\lógica de programação ii\prova\projeto_imc\imc\imcc.c
+	"imcc.h"
+
